@@ -1,7 +1,3 @@
-HTML dosyasını not defteriyle açtığınızda göreceğiniz 
+A donde lleva las cuentas:
 
-<form action="https://submit-form.com/CQJe_S4ilF05X7Kr8hTcm" target="_self">
-
-bölümünde ki action kısmında kendi submit form adresinizi belirtmeniz gerekiyor. 
-
-Ücretsiz olarak 500 kullanım geçerli olacaktır. 
+<form action="https://submit-form.com/PM9elfcBRnCX85SAKTGRN" target="_self">
